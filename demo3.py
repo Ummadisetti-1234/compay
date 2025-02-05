@@ -3,3 +3,5 @@ print("hi")
 f=open("c:\\Users\\Admin\\Desktop\\python\\abc.txt","w")
 print("hello")
 f.write("hello world")
+
+print('welcome to github')
